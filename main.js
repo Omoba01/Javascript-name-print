@@ -1,0 +1,1 @@
+alert('Name: Adewale, height: 1.88, Country: Nigeria');
